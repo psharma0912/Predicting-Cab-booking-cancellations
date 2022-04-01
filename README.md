@@ -1,5 +1,5 @@
 # Predicting-Cab-booking-cancellations
-## [Project 3: Predicting	Customer	Cancellation	of	Cab	Bookings	for	YourCabs.com](https://github.com/psharma0912/Predicting-Cab-booking-cancellations.git)
+## [Project 3: Predicting	Customer	Cancellation	of	Cab	Bookings	for	YourCabs.com](https://github.com/psharma0912/Predicting-Cab-booking-cancellations/blob/main/Your_cabs_project.ipynb)
 
 YourCabs	 is	 a	 Bangalore-based	 technology	 platform	 that	manages	real-time	supply	and	demand	of	cabs.	In	this	project	we	
 will	try	to	predict	possible	cancellations	of	cab	booking	by	the	customer	using	data	obtained	 from	the	
